@@ -2,7 +2,8 @@
 
 **Enhance Software Delivery Performance with GitHub Issues, Projects, Actions, and Advanced Security**
 
-This is the companion repository for my book [Accelerate DevOps with GitHub](https://www.amazon.com/dp/B0B4DW7NSL/ref=cm_sw_r_tw_dp_B4DR80D2BBERYNSQ5V9C). You can find all hands-on labs and other examples from the book here. I also provide all the links and references from the chapters.
+The tip of the tongue, the teeth, the toes.
+She sells sea shells by the sea shore.
 
 ## Part 1: Lean Management and Collaboration
 
