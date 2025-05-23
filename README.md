@@ -3,6 +3,7 @@
 **Enhance Software Delivery Performance with GitHub Issues, Projects, Actions, and Advanced Security**
 
 The tip of the tongue, the teeth, the toes.
+She sells sea shells by the sea shore.
 
 ## Part 1: Lean Management and Collaboration
 
